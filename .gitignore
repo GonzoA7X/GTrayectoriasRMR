@@ -1,0 +1,20 @@
+# Archivos de compilación de Android y Gradle
+/build
+*/build
+.gradle/
+/out/
+
+# Configuraciones locales de Android Studio (¡Nunca se suben!)
+local.properties
+/.idea/
+*.iml
+*.jks
+*.keystore
+
+# Archivos temporales del Sistema Operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Archivos de registro (Logs) y volcados de errores
+*.log

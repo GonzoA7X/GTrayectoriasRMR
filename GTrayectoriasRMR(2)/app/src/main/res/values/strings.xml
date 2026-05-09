@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GTrayectorias RMR</string>
+    <string name="conexionBT">Conexion BT</string>
+    <string name="gtrayectmodcin">Generar Trayectoria</string>
+    <string name="config">Configuracion</string>
+    <string name="external_dir">MySigning</string>
+</resources>
